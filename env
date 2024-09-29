@@ -1,0 +1,15 @@
+TOKEN=""
+CLIENT_ID=""
+
+GUILD_REQUEST_CHANNEL_ID=""
+GUILD_AUDIT_CHANNEL_ID=""
+GUILD_VERIFICATION_CHANNEL_ID=""
+
+FACTION_REQUEST_CHANNEL_ID=""
+FACTION_AUDIT_CHANNEL_ID=""
+FACTION_VERIFICATION_CHANNEL_ID=""
+
+VISITOR="Visitor"
+BW_ARMY="Bridgewatch Army"
+ADMIN="The Ruined Kings"
+GUILD_MEMBER="The Ruined Kings;The Crowned Warriors;Assailant;Ghost of War;The Dread Knights;Warrior Princess"

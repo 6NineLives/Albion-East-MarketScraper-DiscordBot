@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Normal",
+        "value": "1"
+    },
+    {
+        "name": "Good",
+        "value": "2"
+    },
+    {
+        "name": "Outstanding",
+        "value": "3"
+    },
+    {
+        "name": "Excellent",
+        "value": "4"
+    },
+    {
+        "name": "Masterpiece",
+        "value": "5"
+    }
+]
